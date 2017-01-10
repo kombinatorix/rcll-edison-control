@@ -9,12 +9,12 @@ Adjustments
 
 	Change the root variable in the edisons.yml to the absolute path of this directory.
 
-	```{r, engine='sh', count_lines}
+	```
 	mv ./edisons.yml .tmuxinator/
 	```
 Use
 ---
-	```{r, engine='bash', count_lines}
+	```
 	tmuxinator edisons
 	```
 	
